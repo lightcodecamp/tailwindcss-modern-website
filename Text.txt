@@ -1,0 +1,244 @@
+<!--~~~~~~~~~~ HEADER ~~~~~~~~~~-->
+<span>Light</span>Code.
+
+Home - Features - Testimonial - Pricing - Blog - Contact - free trial
+
+<!--~~~~~~~~~~ HOME ~~~~~~~~~~-->
+title - Awesome App for Your Financial.
+
+Paragraph - This should be used to tell a story and let your users know a little more about app and it’s use, How can benefit them.
+
+button - Download app
+
+<!--~~~~~~~~~~ FEATURES ~~~~~~~~~~-->
+h4 - Our Future
+
+title - Easy To Manage Your All Payments By Our App
+
+<!-- card no 1 -->
+icon - <i class="fa-solid fa-calendar-days text-4xl"></i>
+
+h3 - Expense Trackering
+
+Paragraph - We use an application designed a testing gnose to keep away
+
+<!-- card no 2 -->
+icon - <i class="fa-solid fa-chart-column text-4xl"></i>
+
+h3 - Finance Snapshot
+
+Paragraph - We use an application designed a testing gnose to keep away
+
+<!-- card no 3 -->
+icon - <i class="fa-solid fa-phone text-4xl"></i>
+
+h3 - Support 24/24
+
+Paragraph - We use an application designed a testing gnose to keep away
+
+<!--~~~~~~~~~~ SAVING MONEY ~~~~~~~~~~-->
+h4 - Saving Money
+
+title - Best Financing App To Save Your Money
+
+Paragraph - Best financing app ever in the world. Easy to use and very user friendly for mobile banking. You can control your card easily and send money some one just one click.
+
+button - Read More
+
+<!--~~~~~~~~~~ HOW-IT-WORKS ~~~~~~~~~~-->
+h4 - How It Works
+
+title - Grow Up Your Money Saving
+
+<!-- card 1  -->
+h3 - Install The App
+
+Paragraph - We use an application designed a testing gnose to keep away
+
+<!-- card 2  -->
+h3 - Setup Your Profile
+
+Paragraph - We use an application designed a testing gnose to keep away
+
+<!-- card 3  -->
+h3 - Enjoy The Features!
+
+Paragraph - We use an application designed a testing gnose to keep away
+
+<!--~~~~~~~~~~ TESTIMONIAL ~~~~~~~~~~-->
+h4 - User Review
+
+title - What Clients Say About Our App After Use It
+
+<!-- User 1 -->
+Paragraph - "This should be used to tell a story and include any testimonials you might have about your product or service for your clients"!
+
+h4 - Markin Nesus
+
+Paragraph - IOS developer
+
+<!-- User 2 -->
+Paragraph - "This should be used to tell a story and include any testimonials you might have about your product or service for your clients"!
+
+h4 - Vera Duncan
+
+Paragraph - Flutter developer
+
+<!-- User 3 -->
+Paragraph - "This should be used to tell a story and include any testimonials you might have about your product or service for your clients"!
+
+h4 - Pirtle Karol
+
+Paragraph - Android developer
+
+<!-- User 4 -->
+Paragraph - "This should be used to tell a story and include any testimonials you might have about your product or service for your clients"!
+
+h4 - Mark Joe
+
+Paragraph - React developer
+
+<!-- User 5 -->
+Paragraph - "This should be used to tell a story and include any testimonials you might have about your product or service for your clients"!
+
+h4 - Leila Domniuc
+
+Paragraph - Angular developer
+
+<!--~~~~~~~~~~ PRICING ~~~~~~~~~~-->
+h4 - Pricing
+
+title - Get In Reasonable Price
+
+<!-- Rounded switch  -->
+p - Bill Monthly
+
+p - Bill Anually
+
+<!-- card 1 -->
+<p> 20<span>/per month</span> </p>
+
+h3 - Basic
+
+Paragraph - For Beginner Who Want To Scale Business Globaly
+
+<li> <i class="fa-solid fa-bookmark"></i> <span>Expense Management</span> </li>
+
+<li> <i class="fa-solid fa-bookmark"></i> <span>Card Management</span> </li>
+
+<li> <i class="fa-solid fa-bookmark"></i> <span>Instant Statistics</span> </li>
+
+<li> <i class="fa-solid fa-bookmark"></i> <span>Bookmark Function</span> </li>
+
+<li> <i class="fa-solid fa-bookmark"></i> <span>Accounting System</span> </li>
+
+button - Get Started
+
+<!-- card 1 -->
+<p> 50<span>/per month</span> </p>
+
+h3 - Standard
+
+<!-- card 3 -->
+<p> 100<span>/per month</span> </p>
+
+<!--~~~~~~~~~~ BLOG ~~~~~~~~~~-->
+h4 - Innovation And Quality Improvement
+
+title - Latest Updates, Solutions And Company News
+
+<!-- card no 1 -->
+<p>20 August 2022</p>
+
+<p>1 min read</p>
+
+<a>Four ways to cheer yourself up on Blue Monday!</a>
+
+Paragraph - On the second edition of Serious Business, Inc. editor Jim Ledbetter and Fusion senior editor Salmon debate...
+
+<a> <span>Read more</span> </a>
+
+<!-- card no 2 -->
+<p>20 August 2022</p>
+
+<p>1 min read</p>
+
+<a>How to Organize Your budget for Maximum Productivity?</a>
+
+Paragraph - Global provider connected products for consumers, and enterprises worldwide, supply chain control is everything...
+
+<a> <span>Read more</span> </a>
+
+<!-- card no 3 -->
+<p>20 August 2022</p>
+
+<p>1 min read</p>
+
+<a>Should Small Businesses Be Entitled to system?</a>
+
+Paragraph - Our team provides skilled & experienced managers who know the intricacies of this vertical and focus...
+
+<a> <span>Read more</span> </a>
+
+<!--~~~~~~~~~~ DOWNLOAD-APP ~~~~~~~~~~-->
+title - Download App Now And Save Your Money
+
+Paragraph - Serving an impressive list of long-term money with experience and expertise in multiple industries.
+
+<!--~~~~~~~~~~ CONTACT ~~~~~~~~~~-->
+h4 - Have A Questation
+
+title - Get In Touch
+
+placeholder="Name"
+
+placeholder="Email"
+
+placeholder="Phone"
+
+placeholder="Company"
+
+placeholder="Message"
+
+button - Send Message
+
+<!--~~~~~~~~~~ FOOTER ~~~~~~~~~~-->
+h4 - About App
+
+title - This Should Be Used To Tell A Story And Include Any Testimonials You Might Have About Your Product Or Service For Your Clients
+
+p - Follow Us
+
+<i class="fa-brands fa-facebook-f"></i>
+
+<i class="fa-brands fa-twitter"></i>
+
+<i class="fa-brands fa-youtube"></i>
+
+<i class="fa-brands fa-instagram"></i>
+
+h4 - Quick Links
+
+h4 - Help
+
+<li><a>About Us</a></li>
+
+<li><a>Partners</a></li>
+
+<li><a>Career</a></li>
+
+<li><a>Reviews</a></li>
+
+<li><a>Terms & Conditions</a></li>
+
+<li><a>Help</a></li>
+
+h4 - Newsletter
+
+p - Subscribe With Email And Loads Of News Will Be Sent To You
+
+placeholder="Enter Your Email"
+
+<i class="fa-solid fa-chevron-right"></i>
+
+p - 2023 &copy; LightCode. All Rights Reserved.
